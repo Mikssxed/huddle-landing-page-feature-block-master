@@ -404,6 +404,7 @@ h3 {
     }
     #fleft {
         width: 100%;
+        height: auto;
     }
     #fcenter {
         margin-bottom: 30px;
